@@ -20,8 +20,6 @@ O projeto foi construído utilizando as seguintes tecnologias:
 
 Abaixo estão imagens de como a aplicação se parece em diferentes dispositivos.
 
-*(Dica: Substitua as URLs abaixo pelas imagens do seu projeto)*
-
 ![Prévia da tela de desktop](./img/easyshoppdesktop.png)
 *<p align="center">Visualização em Desktop</p>*
 
@@ -39,6 +37,7 @@ A estrutura de arquivos do projeto é simples e organizada:
 ```
 
 ## 🔧 Para visualizar acesse:
+https://nexuscleo-commits.github.io/easy-shopp/
 
 
 Aula do curso Fullstack Devclub, executada por &copy;NexusCleo 2025.
