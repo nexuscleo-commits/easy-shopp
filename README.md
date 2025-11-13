@@ -26,16 +26,6 @@ Abaixo estão imagens de como a aplicação se parece em diferentes dispositivos
 ![Prévia da tela de mobile](./img/easyshoppmobile.png)
 *<p align="center">Visualização em Mobile</p>*
 
-## 📂 Estrutura do Projeto
-
-A estrutura de arquivos do projeto é simples e organizada:
-
-```
-/
-├── index.html       # Arquivo principal da estrutura da página
-└── style.css        # Arquivo de estilos
-```
-
 ## 🔧 Para visualizar acesse:
 https://nexuscleo-commits.github.io/easy-shopp/
 
