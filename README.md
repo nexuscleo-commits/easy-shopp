@@ -22,10 +22,10 @@ Abaixo estão imagens de como a aplicação se parece em diferentes dispositivos
 
 *(Dica: Substitua as URLs abaixo pelas imagens do seu projeto)*
 
-!Prévia da tela de desktop
+![Prévia da tela de desktop](./img/easyshoppdesktop.png)
 *<p align="center">Visualização em Desktop</p>*
 
-!Prévia da tela de mobile
+![Prévia da tela de mobile](./img/easyshoppmobile.png)
 *<p align="center">Visualização em Mobile</p>*
 
 ## 📂 Estrutura do Projeto
