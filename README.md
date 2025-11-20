@@ -27,7 +27,8 @@ Abaixo estão imagens de como a aplicação se parece em diferentes dispositivos
 *<p align="center">Visualização em Mobile</p>*
 
 ## 🔧 Para visualizar acesse:
-https://nexuscleo-commits.github.io/easy-shopp/
+https://nexuscleo.github.io/easy-shopp/
 
 
-Aula do curso Fullstack Devclub, executada por &copy;NexusCleo 2025.
+*Aula do curso Fullstack Devclub, executada por Cleomar da Silva*
+*&copy;2025 NexusCleo.*
